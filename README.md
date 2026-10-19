@@ -3,7 +3,7 @@
 A Markdown notebook that lives in the Harness sidebar.
 
 Open it from the notebook icon in the left sidebar. Notes are stored in the
-browser's local storage, so they stay on this machine and survive restarts.
+browser's local storage, so they stay on your machine and survive restarts.
 
 ## Writing
 
